@@ -1,0 +1,16 @@
+{
+  "name": "debug-legend",
+  "version": "2.4.4",
+  "description": "デバッグ伝説 / Debug Legend — Claude での作業がゲームの燃料になる放置型 RPG / An idle RPG fueled by your work with Claude",
+  "author": {
+    "name": "Tomatonandesu"
+  },
+  "license": "MIT",
+  "keywords": [
+    "game",
+    "idle",
+    "rpg",
+    "mod"
+  ],
+  "types": "./types/index.d.ts"
+}

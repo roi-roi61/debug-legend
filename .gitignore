@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.pyc
+art/jobs/
+art/originals/
+art/remote/site/
+art/remote/site-pending/
+art/remote/site-evo/

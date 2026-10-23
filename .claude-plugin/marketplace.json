@@ -1,0 +1,15 @@
+{
+  "name": "debug-legend",
+  "description": "デバッグ伝説 / Debug Legend — Claude での作業がゲームの燃料になる放置型 RPG / An idle RPG fueled by your work with Claude",
+  "owner": {
+    "name": "Tomatonandesu"
+  },
+  "plugins": [
+    {
+      "name": "debug-legend",
+      "source": "./mod",
+      "description": "Claude での作業がゲームの燃料になる放置型 RPG / An idle RPG fueled by your work with Claude",
+      "version": "2.4.4"
+    }
+  ]
+}
