@@ -17,6 +17,8 @@ Claude に答えてもらうと装備が出る「宝箱」がたまり、時間�
 - 閉じていた間の分も、最大 8 時間ぶんまとめて受け取り
 - 日本語 / English
 
+紹介動画（PV・約 60 秒）: [docs/pv/debug-legend-pv.mp4](docs/pv/debug-legend-pv.mp4)
+
 ### インストール
 
 **デスクトップアプリ**
@@ -91,6 +93,8 @@ Every answer from Claude gives you a treasure chest that drops gear, and as time
 - A 14-day adventure that opens a new place each day you play: Shop, Mine, Farm, Quests, Pets, Expeditions, Blacksmith, Psychic Powers, Gold Mines, Codex… and a true final boss
 - Collect up to 8 hours of progress from while you were away
 - 日本語 / English
+
+Trailer (about 60 seconds, in Japanese): [docs/pv/debug-legend-pv.mp4](docs/pv/debug-legend-pv.mp4)
 
 ### Install
 
