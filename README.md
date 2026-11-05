@@ -24,19 +24,19 @@ Claude に答えてもらうと装備が出る「宝箱」がたまり、時間�
 **デスクトップアプリ**
 
 1. 入力欄の横の **+** を押す
-2. **Plugins** → **Add marketplace** で `Tomatonandesu/debug-legend` を入力
+2. **Plugins** → **Add marketplace** で `roi-roi61/debug-legend` を入力
 3. **Add plugin** で **debug-legend** を追加
 
 **ターミナル**（Claude Code のプロンプトで）
 
 ```
-/plugin install debug-legend --marketplace Tomatonandesu/debug-legend
+/plugin install debug-legend --marketplace roi-roi61/debug-legend
 ```
 
 `Add marketplace?` には `y`、スコープはそのまま Enter で選びます。シェルからなら次のとおりです。
 
 ```bash
-claude plugin install debug-legend --marketplace Tomatonandesu/debug-legend
+claude plugin install debug-legend --marketplace roi-roi61/debug-legend
 ```
 
 ### 遊び方
@@ -101,19 +101,19 @@ Trailer (about 60 seconds, in Japanese): [docs/pv/debug-legend-pv.mp4](docs/pv/d
 **Desktop app**
 
 1. Click **+** next to the prompt box
-2. **Plugins** → **Add marketplace**, and enter `Tomatonandesu/debug-legend`
+2. **Plugins** → **Add marketplace**, and enter `roi-roi61/debug-legend`
 3. **Add plugin** → **debug-legend**
 
 **Terminal** (at the Claude Code prompt)
 
 ```
-/plugin install debug-legend --marketplace Tomatonandesu/debug-legend
+/plugin install debug-legend --marketplace roi-roi61/debug-legend
 ```
 
 Answer `y` to `Add marketplace?` and press Enter for the scope. From a shell:
 
 ```bash
-claude plugin install debug-legend --marketplace Tomatonandesu/debug-legend
+claude plugin install debug-legend --marketplace roi-roi61/debug-legend
 ```
 
 ### How to play
